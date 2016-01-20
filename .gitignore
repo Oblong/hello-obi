@@ -1,0 +1,7 @@
+build
+bin
+*.pyc
+*.map
+.DS_Store
+hello.log
+/obi-*.sh

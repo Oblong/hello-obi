@@ -1,0 +1,7 @@
+name: 'hello'
+build-cmd: "/usr/bin/env true"
+target: "scripts/hello"
+rooms:
+  localhost:
+    env-vars: {}
+    launch-args: []
